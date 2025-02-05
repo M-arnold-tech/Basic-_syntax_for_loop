@@ -1,0 +1,5 @@
+#!/bin/bash
+for car in benz Toyota Audi
+do
+echo "I like $car"
+done
